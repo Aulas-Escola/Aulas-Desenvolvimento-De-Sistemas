@@ -1,0 +1,42 @@
+a.navbar-brand.title {
+    font-size: 25px;
+}
+
+.imgs-linguagens{
+    display: flex;
+    width: 65vw;
+    margin: 30px auto 100px auto ;
+}
+
+.imgs-linguagens .imgComLegenda{
+    margin: auto;
+    width: 25%;
+    text-align: center;
+}
+
+.imgComLegenda.imgMeio {
+    margin: 0 30px;
+}
+
+.imgs-linguagens .imgComLegenda img{
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+span.sMt{
+    font-size: 30px;
+}
+
+.container{
+    width: 40% !important;
+    background-color: black;
+    padding: 10px !important;
+}
+
+.mgTp{
+    margin-top: 100px;
+}
+
+.mgBt{
+    margin-bottom: 100px;
+}
