@@ -28,4 +28,7 @@
     <li>
         <a href="https://github.com/Aulas-Escola/Aulas-Desenvolvimento-De-Sistemas/tree/main/Aula%2009%20-%20(15-03)">Aula 09</a>
     </li>
+    <li>
+        <a href="https://github.com/Aulas-Escola/Aulas-Desenvolvimento-De-Sistemas/tree/main/Aula%2010%20-%20(16-03)">Aula 10</a>
+    </li>
 </ul>
